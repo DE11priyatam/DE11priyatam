@@ -1,16 +1,32 @@
-### Hi there 👋
+Hello World! This is Priyatam Reddy 👋
 
-<!--
-**DE11priyatam/DE11priyatam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻  About Me :
+I am a Data Engineer
+
+🔭 I am a data enthusiast with extensive experience in big data tools and cloud technologies. I have worked on various projects involving data ingestion, processing, and analysis, and I am proficient in using tools like Hadoop, Spark, Hive. My experience with Azure,GCP,AWS includes working with S3, EC2, and EMR, and I have successfully implemented scalable and fault-tolerant data pipelines using these services.
+
+
+
+🛠  Languages and Tools :
+
+
+
+![image](https://camo.githubusercontent.com/07c468da7933cfa1a57f43cf62ecbf885008414f5091cfcf1a15b45dfc6aa687/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3035313232413f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d464641353138)
+![image](https://camo.githubusercontent.com/be152e2aae85ce6087a2333206dbd51ff744d583cde908a81079ea64400910fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4861646f6f702d3035313232413f7374796c653d666c6174266c6f676f3d4170616368652532304861646f6f70)![image](https://camo.githubusercontent.com/b95a05885d234291abaea2ccdecbad37bfb47c2964ae818526d76905d8d49438/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074)
+![image](https://camo.githubusercontent.com/a84d7146bf0c52c6855a0b0ae7d960a1bbcffa9626bd8ca1ce6baef354ef30d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d486976652d3035313232413f7374796c653d666c6174266c6f676f3d41706163686548697665)![image](https://camo.githubusercontent.com/55d6490800531bb5d0cd77161ac25237f50067ff32259dd3fb98ecaa54f583c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d417061636865253230537061726b2d3035313232413f7374796c653d666c6174266c6f676f3d417061636865537061726b) and more
+
+
+
+
+
+
+
+Priyatam Reddy
+
+🤝🏻  Connect with Me :
+
+
+![image](https://camo.githubusercontent.com/f768e86d45db0f68c61cf435961b60b908ad031d8c8787df54df5dd998a99be5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61696c2d4431343833363f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465) - Reddypriyatam9@gmail.com
+ 
