@@ -5,7 +5,7 @@
 👩‍💻  About Me :
 I am a Data Engineer
 
-🔭 I am a data enthusiast with extensive experience in big data tools and cloud technologies. I have worked on various projects involving data ingestion, processing, and analysis, and I am proficient in using tools like Hadoop, Spark, Hive. My experience with Azure,GCP,AWS includes working with S3, EC2, and EMR, and I have successfully implemented scalable and fault-tolerant data pipelines using these services.
+🔭 As a data engineer, I possess extensive expertise in data processing and analysis, with a focus on GCP and Azure technologies. I've successfully implemented robust data pipelines using tools such as BigQuery, Dataflow, and Pub/Sub in GCP. In Azure, my proficiency extends to services like Azure Data Lake Storage, Azure Databricks, and Azure Event Hubs. My experience demonstrates a keen ability to navigate and optimize cloud-based solutions tailored to the unique offerings of GCP and Azure platforms.
 
 
 
