@@ -1,5 +1,5 @@
-Hello World! This is Priyatam Reddy 👋
 
+<h1 align="center">Hi 👋, I'm Priyatam Reddy</h1>
 
 
 👩‍💻  About Me :
